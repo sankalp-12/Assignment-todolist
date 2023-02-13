@@ -1,11 +1,21 @@
-Assignment for Dubdub.ai
+# Assignment for Dubdub.ai
+Simple To-Do List Application using Python [Flask] and HTML, with SQLite as database.
 
-### Setup
-Create project with virtual environment
+
+## Docker image
+```console
+$ docker pull 5ankalp/todo:1.0.2
+```
+
+## Clone this repository
+```console
+https://github.com/sankalp-12/Assignment-todolist.git
+cd Assignment-todolist
+```
+
+### Setup project with virtual environment
 
 ```console
-$ mkdir myproject
-$ cd myproject
 $ python3 -m venv venv
 ```
 
